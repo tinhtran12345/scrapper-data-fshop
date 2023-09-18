@@ -1,5 +1,5 @@
-const browserObject = require("./browser");
-const scraperController = require("./pageController");
+const browserObject = require("./src/browser");
+const scraperController = require("./src/pageController");
 
 let browserInstance = browserObject.startBrowser();
 
