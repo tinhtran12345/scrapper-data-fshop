@@ -5,10 +5,11 @@ const startBrowser = async () => {
     try {
         console.log("Open the browser ...");
         browser = await puppeteer.launch({
-            headless: false,
+            headless: "new",
             //  mean browser will run with interface
             args: ["--disable-setuid-sandbox"],
             ignoreHTTPSErrors: true,
+            // slowMo: 10,
         });
     } catch (error) {
         console.log("Could not create a browser instance => : ", error);

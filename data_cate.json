@@ -1,0 +1,81 @@
+[
+    {
+        "id": 0,
+        "link": "https://fptshop.com.vn/dien-thoai",
+        "name": "ĐIỆN THOẠI",
+        "brands": [
+            "Apple (iPhone)",
+            "Samsung",
+            "Oppo",
+            "Xiaomi",
+            "Honor",
+            "realme",
+            "Vivo",
+            "Asus",
+            "Masstel",
+            "Nokia"
+        ]
+    },
+    {
+        "id": 1,
+        "link": "https://fptshop.com.vn/may-tinh-xach-tay",
+        "name": "LAPTOP",
+        "brands": [
+            "Apple (MacBook)",
+            "Asus",
+            "HP",
+            "Lenovo",
+            "Acer",
+            "MSI",
+            "Dell",
+            "Gigabyte",
+            "Huawei",
+            "LG",
+            "Masstel",
+            "Vaio",
+            "Microsoft (Surface)",
+            "Chuwi"
+        ]
+    },
+    {
+        "id": 2,
+        "link": "https://fptshop.com.vn/may-tinh-bang",
+        "name": "MÁY TÍNH BẢNG",
+        "brands": [
+            "Apple (iPad)",
+            "Samsung",
+            "Masstel",
+            "Lenovo",
+            "Xiaomi",
+            "Coolpad",
+            "OPPO"
+        ]
+    },
+    { "id": 3, "link": "https://fptshop.com.vn/apple", "name": "APPLE" },
+    {
+        "id": 4,
+        "link": "https://fptshop.com.vn/may-tinh-de-ban",
+        "name": "PC - LINH KIỆN"
+    },
+    { "id": 5, "link": "https://fptshop.com.vn/phu-kien", "name": "PHỤ KIỆN" },
+    {
+        "id": 6,
+        "link": "https://fptshop.com.vn/may-doi-tra",
+        "name": "Máy cũ giá rẻ"
+    },
+    {
+        "id": 7,
+        "link": "https://fptshop.com.vn/dien-gia-dung",
+        "name": "HÀNG GIA DỤNG"
+    },
+    {
+        "id": 8,
+        "link": "https://fptshop.com.vn/sim-so-dep",
+        "name": "SIM & THẺ"
+    },
+    {
+        "id": 9,
+        "link": "https://fptshop.com.vn/khuyen-mai",
+        "name": "KHUYẾN MÃI"
+    }
+]
